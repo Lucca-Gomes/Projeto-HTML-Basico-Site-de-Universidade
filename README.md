@@ -55,8 +55,6 @@ O desafio proposto para este projeto era a criação de um site para uma Univers
 
 ## 🎨 Layout
 
-### Widget
-
 ![Mobile1](https://github.com/Lucca-Gomes/Projeto-HTML-Basico-Site-de-Universidade/blob/main/_Assets/TelaInicial.png)<br>
 ![Mobile2](https://github.com/Lucca-Gomes/Projeto-HTML-Basico-Site-de-Universidade/blob/main/_Assets/QuemSomos.png)<br>
 ![Mobile3](https://github.com/Lucca-Gomes/Projeto-HTML-Basico-Site-de-Universidade/blob/main/_Assets/Contatos.png)
